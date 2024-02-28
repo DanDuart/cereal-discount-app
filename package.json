@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "nodemon": "^3.1.0",
-    "restify": "^11.1.0"
+    "restify": "^11.1.0",
+    "restify-errors": "^8.0.2"
   }
 }

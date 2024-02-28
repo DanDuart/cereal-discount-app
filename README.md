@@ -4,7 +4,7 @@ This project implements a simple discount calculator using Node.js and Restify.
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/) installed (v14 LTS recommended)
+- [Node.js](https://nodejs.org/) installed (v18 LTS recommended)
 - [Git](https://git-scm.com/) installed
 
 ## How to Download and Run the Project Locally
